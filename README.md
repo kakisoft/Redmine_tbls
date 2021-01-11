@@ -17,7 +17,7 @@ password : redmine
 
 
 ## tbls のインストール
-詳細は公式サイトを。
+詳細は[公式サイト](https://github.com/k1LoW/tbls)を。
 
 #### Mac
 ```
