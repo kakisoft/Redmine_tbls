@@ -27,6 +27,10 @@ go get github.com/k1LoW/tbls
 
 #### Win
 ```
+choco install -y golang
+choco install -y mingw
+
+go get github.com/k1LoW/tbls
 ```
 
 
